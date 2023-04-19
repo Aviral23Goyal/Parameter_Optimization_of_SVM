@@ -43,7 +43,7 @@ The above parameter gave a maximum accuracy of 0.73.
 
 ## Convergence graph  : 
 
-![WhatsApp Image 2023-04-20 at 01 17 18](https://user-images.githubusercontent.com/88210788/233188439-dc88fc15-7158-4a5d-adb2-ec56435b679a.jpg)
+![image](https://user-images.githubusercontent.com/88210788/233189197-3aba4751-d583-4d63-9c7a-67ebb5dd8207.png)
 
 
 
